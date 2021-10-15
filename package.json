@@ -43,7 +43,7 @@
   "bugs": {
     "url": "https://github.com/elena-in-code/post-app/issues"
   },
-  "homepage": "https://github.com/elena-in-code/post-app#readme",
+  "homepage": "https://post-app-tan.vercel.app",
   "devDependencies": {
     "@babel/core": "^7.10.2",
     "@babel/preset-env": "^7.10.2",
